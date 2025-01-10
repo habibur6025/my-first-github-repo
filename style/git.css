@@ -7,7 +7,33 @@ p{
     font-size: 25px;
 }
 img{
+width: 300px;
+height: 300px;
+   
+}
+.imb{
+display:block;
+margin: auto;
+    
+}
+nav{
 
-   width: 200px; 
-   height: 200px;
+text-align: center;
+
+}
+nav > ul > li{
+display: inline;
+margin-right: 20px;
+
+}
+nav li > a{
+
+    text-decoration:none;
+}
+.ha{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
 }
